@@ -21,6 +21,7 @@ This technique instructs the AI to organize information into a structured table,
 Prompt: "Create a simple table comparing the pros and cons of solar energy."
 
 Expected 
+
 <img width="552" height="222" alt="image" src="https://github.com/user-attachments/assets/3113fba1-6f2f-4c5b-bfaf-bc5daf0d62fb" />
 
 3. Preceding Question Prompting
@@ -46,5 +47,6 @@ Result: The various types of Prompts are executed successfully with generated th
 
 
 
-# Result: Thus the Prompts were exected succcessfully.
+# Result:
+Thus the Prompts were executed successfully.
 
